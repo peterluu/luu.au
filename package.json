@@ -1,10 +1,4 @@
 {
   "name": "luu.au",
-  "version": "0.0.1",
-  "devDependencies": {
-    "astro": "latest"
-  },
-  "scripts": {
-    "build": "astro build"
-  }
+  "packageManager": "yarn@4.13.0"
 }
